@@ -1,7 +1,7 @@
 [INIT]
 PICFIX=1
 VARCount=64
-Version=1
+Version=-1
 ProVersion=641
 SCREENDSIZE=272X480
 SPADDRESS=5000
@@ -19,8 +19,8 @@ SPADDRESS=5000
 10=10.bmp
 11=11.bmp
 12=12.bmp
-13=13.bmp
-14=14.bmp
+13=14.bmp
+14=13.bmp
 15=15.bmp
 16=16.bmp
 17=17.bmp
