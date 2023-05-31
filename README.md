@@ -1,5 +1,5 @@
 # Anycubic Kobra Dark UI
-A dark and improved UI for the Anycubic Kobra 3d printer (ONLY the Anycubic Kobra; English)
+A dark and improved UI for the Anycubic Kobra 3d printer (ONLY the Anycubic Kobra; English) designed to be used with Wabbitguy firmware on Kobra Plus or Kobra Max. For use on stock firmware, use the link at the bottom of this readme instead.
 
 ### Disclaimer
 I am not responsible for any damage or malfunction caused to your printer because of those files. Any modding made to your printer is made at your own risk, this includes any damage that could happen in real life.
@@ -19,13 +19,10 @@ I happened to use the printer quite often in the dark and the default white UI w
 - Starting animation shortened to remove the fading to white
 - Improved buttons placements and size (bigger buttons for those who were too small and hard to tap)
 - Improved translations for less ambiguity
-- Much better image compression for less artifacts (The default UI was really bad)
+- Much better image compression for less artifacts
+- Shows printer stats (requires Wabbitguy Plus or Max firmware)
+- Changes to print display automatically when printing via USB (requires Wabbitguy Plus or Max firmware)
 
-### Known issues
-Note: These issues are not planned to be fixed (The first two requires motherboard firmware modification from my understanding which is beyond my knowledge)
-- The file selection menu text becomes blue after being deselected instead of white
-- The number input page input text is blue instead of white
-- The language button was disabled (This is not an issue in itself but I put it here so people can see it's no an issue)
 
 ### Other things to know
 You can build the UI yourself using the DGUS Editor software and by opening the project in it. The .icl file contains all the compressed images, so if you want to update the images you only need to rebuild the .icl file.
