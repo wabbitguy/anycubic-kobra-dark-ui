@@ -1,6 +1,8 @@
 # Anycubic Kobra Dark UI
 A dark and improved UI for the Anycubic Kobra 3d printer (ONLY the Anycubic Kobra; English) designed to be used with Wabbitguy firmware on Kobra Plus or Kobra Max. For use on stock firmware, use the link at the bottom of this readme instead.
 
+Note this update will only work on the original Kobra series printers with the Nextion LCD display. Anycubic has now changed the LCD display to a TJC display and it requires a completely different format which at this point is unknown. If you put the SD card in the LCD and nothing happens, you probably have the newer display.
+
 ### Disclaimer
 I am not responsible for any damage or malfunction caused to your printer because of those files. Any modding made to your printer is made at your own risk, this includes any damage that could happen in real life.
 
